@@ -11,7 +11,7 @@ For additonal media inquiries please contact marketing.etherparking@top-email.ne
 For non-commercial usage please notify us on [Matrix](https://matrix.to/#/#freeparking:matrix.org?via=matrix.org).
 
 ## Token Logo
-<img src = "etherparking.svg" = "5%"><br>
+<img src = "etherparking.svg" width = "5%"><br>
 For token logo please use [etherparking.svg](etherparking.svg) <br>
 
 ### Progressive Web Apps
