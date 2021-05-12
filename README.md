@@ -8,10 +8,10 @@ An proportional Ether distribution system represented by token shares.
 # Contact
 For commerical usage please contact team.etherparking@top-email.net <br>
 For additonal media inquiries please contact marketing.etherparking@top-email.net <br>
-For non-commercial usage please notify us at https://matrix.to/#/#freeparking:matrix.org?via=matrix.org
+For non-commercial usage please notify us on [Matrix](https://matrix.to/#/#freeparking:matrix.org?via=matrix.org).
 
 ## Token Logo
-<img src = "etherparking.svg = "5%"><br>
+<img src = "etherparking.svg" = "5%"><br>
 For token logo please use [etherparking.svg](etherparking.svg) <br>
 
 ### Progressive Web Apps
