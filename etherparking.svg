@@ -17,8 +17,8 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="etherparking.svg"
    inkscape:export-filename="/home/noble/Documents/Websites/Free Parking Protocol/website/landingpage/src/assets/img/favicon/safari-pinned-tab.svg.png"
-   inkscape:export-xdpi="3.0000002"
-   inkscape:export-ydpi="3.0000002">
+   inkscape:export-xdpi="14.062501"
+   inkscape:export-ydpi="14.062501">
   <defs
      id="defs4547" />
   <sodipodi:namedview
@@ -28,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="60.759071"
-     inkscape:cy="565.01185"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="-700.89596"
+     inkscape:cy="548.84941"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
-     inkscape:window-height="1418"
+     inkscape:window-height="1416"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -122,12 +122,12 @@
              sodipodi:nodetypes="sccscscssccccs" />
           <path
              sodipodi:nodetypes="sccscscssccccs"
-             d="m 996.46133,-315.2376 c -1.12135,-60.47779 -43.68309,-112.24489 -102.80169,-125.03982 -8.31369,-1.74974 -16.77665,-2.69552 -25.27162,-2.82433 h -1.88254 c -0.21763,0 -0.86873,-0.0723 -1.08611,-0.0723 -71.38766,0.38231 -129.17983,58.13095 -129.61631,129.51784 -0.43642,71.38695 56.64548,129.83775 128.02331,131.09284 h 1.95478 c 0.21762,0 0.43465,0.0723 0.57934,0.0723 h 0.507 c 0.50759,0.0118 1.01636,-0.0118 1.52083,-0.0723 8.91332,-0.12646 17.79218,-1.14516 26.50288,-3.04165 1.08606,-0.28938 2.2451,-0.57993 3.4756,-0.86867 58.60343,-14.97609 99.21616,-68.28707 98.09482,-128.76404 z"
+             d="m 963.68518,-314.63234 c -0.83932,-45.26719 -32.69648,-84.01449 -76.94632,-93.5914 -6.22274,-1.30967 -12.5572,-2.01758 -18.91562,-2.11399 h -1.40907 c -0.1629,0 -0.65024,-0.0541 -0.81295,-0.0541 -53.43314,0.28616 -96.69016,43.5106 -97.01686,96.94316 -0.32666,53.43262 42.39873,97.18262 95.82451,98.12204 h 1.46314 c 0.16289,0 0.32534,0.0541 0.43363,0.0541 h 0.37949 c 0.37993,0.009 0.76074,-0.009 1.13833,-0.0541 6.67156,-0.0947 13.31732,-0.85714 19.83721,-2.27665 0.81291,-0.2166 1.68045,-0.43407 2.60147,-0.65019 43.86424,-11.2095 74.26257,-51.11238 73.42326,-96.37895 z"
              id="path7731"
              inkscape:connector-curvature="0"
-             style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.8202939" />
+             style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.61398405" />
           <path
-             style="display:inline;fill:#be1e2d;fill-opacity:1;stroke-width:0.3485209"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.3485209"
              inkscape:connector-curvature="0"
              id="path7733"
              d="m 921.51143,-313.85358 c -0.47641,-25.69539 -18.55974,-47.68986 -43.67767,-53.12605 -3.53224,-0.74345 -7.12795,-1.14528 -10.73724,-1.19998 h -0.79984 c -0.0924,0 -0.36937,-0.0294 -0.46172,-0.0294 -30.33068,0.16233 -54.88503,24.69827 -55.07047,55.02866 -0.18528,30.33044 24.06716,55.16458 54.39367,55.69787 h 0.83055 c 0.0923,0 0.18469,0.0294 0.24586,0.0294 h 0.21526 c 0.21586,0.005 0.43172,-0.005 0.64617,-0.0294 3.78703,-0.0529 7.55942,-0.48641 11.26035,-1.29232 0.46171,-0.12292 0.95389,-0.24644 1.47671,-0.36937 24.89901,-6.36297 42.15426,-29.01336 41.67784,-54.7084 z"
